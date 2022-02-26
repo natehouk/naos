@@ -1,4 +1,4 @@
-# naos
+# naos (Not Another Operating System)
 A micro kernel written in Rust inspired by Philipp Oppermann.
 
 ### Hello World
